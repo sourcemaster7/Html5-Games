@@ -4,6 +4,7 @@ eslint.html
 node_modules/
 .idea/
 OLD/
+.vscode
 
 # Files
 
@@ -43,3 +44,13 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+# # It keeps versions having high severity
+# package-lock.json
+
+# temp folder
+temp/
+
+secrets
+temp
+package-lock.json
